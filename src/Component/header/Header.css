@@ -1,0 +1,42 @@
+.header-main {
+  height: 12vh;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+}
+.Focux {
+  color: yellow;
+  font-size: xx-large;
+  font-weight: bolder;
+  cursor: pointer;
+  font-family: "Courier New", Courier, monospace;
+}
+.header-ul {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  gap: 10px;
+}
+.header-ul li {
+  border-radius: 5px;
+  background-color: yellow;
+  width: 100px;
+  padding: 0px auto;
+  display: flex;
+  justify-content: center;
+  font-size: small;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.header-ul li:hover {
+  background-color: gray;
+  color: orange;
+  border-color: magenta;
+  transition: border-color 0.75s;
+  transition-timing-function: ease-in-out;
+}

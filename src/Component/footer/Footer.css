@@ -1,0 +1,24 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+}
+.Copyright {
+  width: 50%;
+  margin: 0px auto;
+  border-color: brown;
+  color: rgba(255, 165, 0, 0.9);
+}
+.Nav-links {
+  padding-left: 15px;
+}
+.Nav-links h3 {
+  font-weight: bold;
+  color: yellow;
+}
+.Nav-links ul {
+  list-style-type: none;
+}
+.Nav-links ul li {
+  color: rgba(255, 165, 0, 0.9);
+  font-weight: bold;
+}

@@ -1,0 +1,31 @@
+.hero {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../../assets/trading-jpg-image.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.hero {
+  width: 100%;
+  padding-top: 100px;
+}
+.hero-info {
+  width: 100%;
+  padding-left: 15px;
+}
+.hero-info h1 {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  font-size: xx-large;
+  color: rgba(255, 165, 0, 0.9);
+}
+.hero-info2 {
+  width: 80%;
+  color: rgb(255, 165, 0, 0.9);
+  margin-top: 10px;
+}
+.hero-info span {
+  color: yellow;
+}
