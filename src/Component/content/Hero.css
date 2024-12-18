@@ -1,7 +1,7 @@
 .hero {
   width: 100vw;
   height: 100vh;
-  background-image: url("../../assets/trading-jpg-image.jpg");
+  background-image: url("../../assets/trading-image.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
